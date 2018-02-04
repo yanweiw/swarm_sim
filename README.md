@@ -24,4 +24,4 @@ Often times it is helpful for a robot swarm to segregate into different function
 
 ### Code
 
-I decide not to put up my code in a public repo as these simulations are likely to be assigned as homework for the future swarm robotics class. If you have any questions about my implementations, you can find contact info at my [portfolio page]().
+I decide not to put up my code here as these simulations are likely to be assigned as homework for the future swarm robotics class. If you have any questions about my implementations, you can find me at my [portfolio page]().
