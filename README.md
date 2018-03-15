@@ -24,4 +24,4 @@ Often times it is helpful for a robot swarm to segregate into different function
 
 ### Code
 
-I decide not to put up my code here as these simulations are likely to be assigned as homework for the future swarm robotics class. If you have any questions about my implementations, you can find me at my [portfolio page](https://yanweiw.github.io/).
+I decide not to put up my code here as these simulations are likely to be assigned as homework for the future swarm robotics class. If you have any questions about my implementations, you can find me at my [portfolio page](https://yanweiw.github.io/). Cover photo credit to [Harvard SEAS](https://www.seas.harvard.edu/news/2014/08/self-organizing-thousand-robot-swarm).
